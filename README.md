@@ -1,6 +1,16 @@
 # GreenGrocerApp
 
-A new Flutter project.
+👉 This is a simple Grocery App UI build with flutter.
+
+Tools 💻
+
+ - <a href="https://flutter.dev/">Flutter</a>
+
+ - <a href="https://code.visualstudio.com/">Vscode</a>
+ 
+ ![Screenshot](ProfileScreen.png)
+ ![Screenshot](StoreScreen.png)
+
 
 ## Getting Started
 
